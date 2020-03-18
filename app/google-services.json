@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50150317769",
+    "firebase_url": "https://safetify-31fd5.firebaseio.com",
+    "project_id": "safetify-31fd5",
+    "storage_bucket": "safetify-31fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50150317769:android:d396e48d8e91082222b718",
+        "android_client_info": {
+          "package_name": "com.e.safetify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50150317769-c8770ggrfp3t55mq823n4u79j8k2ohsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.safetify",
+            "certificate_hash": "8d11b012d7b85cbcda98566252f0dacc0febc088"
+          }
+        },
+        {
+          "client_id": "50150317769-hj0l513uqin1q849q3i7g44clpt4e8au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJEQ0B5LuVYr78bUEbHUm9xdHeFORgBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50150317769-hj0l513uqin1q849q3i7g44clpt4e8au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
